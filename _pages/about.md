@@ -8,10 +8,14 @@ redirect_from:
 ---
 
 
-I am currently a lecturer at School of Mathematics, the Southwest Minzu University. 
+I am currently a lecturer at [School of Mathematics](https://sxxy.swun.edu.cn/), [the Southwest Minzu University](https://www.swun.edu.cn/). 
 
 
-I received my bachelor's degree in Mathematics and Applied Mathematics at the Sichuan Minzu College in 2015. I obtained my M.S. in Operational Research and Cybernetics under the supervision of Prof. Fuquan Xia I got my degree of Doctor of Philosophy in Applied Mathematics at the Hong Kong Polytechnic University in 2021, under the supervision of my Chief-supervisor Professor Ting Kei Pong Then, I got my degree of Doctor of Philosophy in Applied Mathematics at the Hong Kong Polytechnic University in 2021, under the supervision of my Chief-supervisor Professor Ting Kei Pong, and Co-supervisor Professor Xiaojun Chen. During 2021-2024, I was a Postdoctoral Associate in the Department of Electrical and Computer at the University of Pittsburgh and the Department of Computer Science at the University of Maryland, under the mentorship of Professor Heng Huang. Now I am an assistant professor at the Department of Computer Science and Engineering at the University of Texas Arlington. I serve as a reviewer in ICML, ICLR, MP, MOR, SIOPT, IEEE Signal Processing, OJMO.
+I received my bachelor's degree in Mathematics and Applied Mathematics at [the Sichuan Minzu College](https://www.scun.edu.cn/) in 2015. I obtained my master's degree in Operational Research and Cybernetics at [the China West Normal University](https://www.cwnu.edu.cn/) in 2018, under the supervision of Professor Minglu Ye. I got my degree of Doctor of Philosophy in Pure Mathematics at [the Sichuan Normal University](https://www.sicnu.edu.cn/index.html) in 2021, under the supervision of [Professor Fuquan Xia](http://139.155.71.72:81/HomePage.aspx?ID=14). From July 2023 to August 2024, I worked as a postdoctoral fellow with [Professor Ting Kei Pong](https://www.polyu.edu.hk/ama/profile/pong/) at [Department of Applied Mathematics](https://www.polyu.edu.hk/ama/), [the Hong Kong Polytechnic University](https://www.polyu.edu.hk/). 
+
+
+
+I was a Postdoctoral Associate in the Department of Electrical and Computer at the University of Pittsburgh and the Department of Computer Science at the University of Maryland, under the mentorship of Professor Heng Huang. Now I am an assistant professor at the Department of Computer Science and Engineering at the University of Texas Arlington. I serve as a reviewer in ICML, ICLR, MP, MOR, SIOPT, IEEE Signal Processing, OJMO.
 
 This is my Google Scholar.
 
