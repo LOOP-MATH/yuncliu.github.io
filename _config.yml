@@ -25,10 +25,8 @@ author:
   avatar           : "yunchliu.png"
   name             : "Yuncheng Liu(刘云程)"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
+  bio              : "Wir müssen wissen, Wir werden wissen."
+  location         : "Chengdu, Sichuan"
   email            : "yuncheng.liu@swun.edu.cn" 
 
   # Academic websites
