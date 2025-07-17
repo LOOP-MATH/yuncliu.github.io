@@ -6,8 +6,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am currently a lecturer at School of Mathematics, the Southwest Minzu University. 
 
-I received my bachelor's degree in Mathematics and Applied Mathematics at the Sichuan Minzu Collge in 2015. Then, I got my degree of Doctor of Philosophy in Applied Mathematics at the Hong Kong Polytechnic University in 2021, under the supervision of my Chief-supervisor Professor Ting Kei Pong
+
+I received my bachelor's degree in Mathematics and Applied Mathematics at the Sichuan Minzu College in 2015. I obtained my M.S. in Operational Research and Cybernetics under the supervision of Prof. Fuquan Xia I got my degree of Doctor of Philosophy in Applied Mathematics at the Hong Kong Polytechnic University in 2021, under the supervision of my Chief-supervisor Professor Ting Kei Pong Then, I got my degree of Doctor of Philosophy in Applied Mathematics at the Hong Kong Polytechnic University in 2021, under the supervision of my Chief-supervisor Professor Ting Kei Pong, and Co-supervisor Professor Xiaojun Chen. During 2021-2024, I was a Postdoctoral Associate in the Department of Electrical and Computer at the University of Pittsburgh and the Department of Computer Science at the University of Maryland, under the mentorship of Professor Heng Huang. Now I am an assistant professor at the Department of Computer Science and Engineering at the University of Texas Arlington. I serve as a reviewer in ICML, ICLR, MP, MOR, SIOPT, IEEE Signal Processing, OJMO.
+
+This is my Google Scholar.
 
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
